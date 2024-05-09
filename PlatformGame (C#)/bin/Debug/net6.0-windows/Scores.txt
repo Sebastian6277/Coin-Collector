@@ -1,7 +1,0 @@
-DWE  :  340
-CON  :  330
-PIP  :  330
-AHL  :  310
-DAD  :  240
-CJA  :  220
-SEB  :  210
